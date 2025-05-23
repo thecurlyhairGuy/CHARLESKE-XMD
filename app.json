@@ -39,7 +39,7 @@
 "ANTICALL":
     {
       "description":"Enter yes for your bot to auto reject calls",
-      "value":"yes",
+      "value":"no",
       "required":false
     },
 "AUTO_REACT_STATUS":
@@ -58,7 +58,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝐂𝐇𝐀𝐑𝐋𝐄𝐒𝐊𝐄-VMD",
+      "value":"𝗧𝗛𝗘 𝗖𝗨𝗥𝗟𝗬𝗛𝗔𝗜𝗥 𝗚𝗨𝗬 ",
       "required":false
 
     } ,
@@ -78,11 +78,11 @@
 	,
     "HEROKU_API_KEY": {
     "description": "insert your heroku api-key (this is optionnal)",
-     "required" :true
+     "required" :false
     },
   "HEROKU_APP_NAME": {
     "description": "insert your heroku APP NAME (put the name you put on top)",
-     "required" :true
+     "required" :false
     }  
 	  ,
     "SESSION_ID":
@@ -97,14 +97,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "©charles"
+    "value": "𝗧𝗛𝗘 𝗖𝗨𝗥𝗟𝗬𝗛𝗔𝗜𝗥 𝗚𝗨𝗬 "
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of kenya '254')",
     "required":true,
-    "value": ""
+    "value": "2349132095836"
   },
     "WARN_COUNT":
   {
