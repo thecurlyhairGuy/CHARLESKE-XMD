@@ -104,7 +104,7 @@
     
     "desc": "Your number , dont put '+' and put you area code(exemple of kenya '254')",
     "required":true,
-    "value": "2349132095836"
+    "value": "911"
   },
     "WARN_COUNT":
   {
